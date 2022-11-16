@@ -1,0 +1,10 @@
+.showSpan::after{
+    display: inline-block;
+    content: '';
+    width: 1px;
+    height: 16px;
+    background-color: black;
+    position: relative;
+    top: 2px;
+    left: 2px;
+}
